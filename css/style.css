@@ -1,0 +1,375 @@
+*{	margin: 0px;
+	padding: 0px;
+
+}
+
+.container {
+	width: 1140px;
+	margin: 0px auto;
+}
+header {
+
+	background-color:rebeccapurple;
+	padding 25px 0px;
+	width: 100%;
+	float: left;
+}
+
+
+.logo{
+	width: 25%;
+	float: left;
+	margin: 0px auto;
+}
+.logo img {
+	width: 120px;
+	padding: 45px;
+
+}
+
+.menu {
+	width: 75%;
+	float: left;
+
+}
+
+nav ul {
+
+
+}
+
+nav ul li {
+	display: inline-block;
+	text-decoration: none;
+	margin: 50px 40px;
+	font-size: 25px;
+
+
+
+
+}
+
+nav ul li a {
+	color: white;
+
+}
+
+.banner {
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	float: left;
+	margin: 0px auto;
+	text-align: center;
+
+}
+
+.banner h2 {
+	color: white;
+	font-size: 20px;
+	padding: 50px;
+
+}
+
+.btn-one {
+	font-size: 25px;
+	background-color: orange;
+	border:none;
+	padding: 11px 25px;
+	text-transform: uppercase;
+	color: white;
+	box-shadow: 0px 3px black;
+	margin: 50px;
+
+
+}
+
+.about{
+	width: 100%;
+	float: left;
+	background-color:#27aae1;
+	padding: 25px 0px;
+	font-size: 20px;
+
+}
+
+.titel{
+	margin: 0 auto;
+	width: 450PX;
+	text-align: center;
+}
+
+.titel h2{
+
+}
+
+.titel span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 55px;
+	margin: 10px auto;
+	
+}
+
+.titel p{
+	padding: 25px;
+	
+}
+
+
+.section-service {
+    width: 100%;
+    float: left;
+    margin-top: 68px;
+}
+
+.section-service .each {
+    width: 24%;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+.section-service .each h3 {
+    margin-top: 24px;
+    font-size: 24px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: lighter;
+    color: white;
+}
+
+.main{
+	width: 100%;
+	background-color: silver;
+	padding: 100px 0;
+	float: left;
+	text-align: center;
+}
+.title-one{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.team-main{
+	width: 100%;
+	float: left;
+}
+
+.team{
+	width: 25%;
+	float: left;
+	text-align: center;
+	color: black;
+}
+
+.counter{
+	width: 100%;
+	float: left;
+	background-color:#fff;
+	padding: 25px 0px;
+	font-size: 20px;	
+}
+
+.title-three{
+	margin: 50px auto;
+	width: 450PX;
+	text-align: center;
+	font-size: 30px;
+}
+
+.title-three span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 55px;
+	margin: 10px auto;
+	
+}
+
+.circle{
+	width: 24%;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+.circle h2{
+	color: black;
+}
+
+.portfolio{
+	width: 100%;
+	float: left;
+	background-color:pink;
+	padding: 25px 0px;
+	font-size: 20px;	
+}
+
+.title-four{
+	width: 100%;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+}
+
+.five{
+	text-align: center;
+	float: left;
+	margin: 30px auto;
+}
+
+.eight{
+	text-align: center;
+	float: left;
+	margin: 30px auto;
+}
+.survey{
+	width: 100%;
+	float: left;
+	background-color:orange;
+	padding: 25px 0px;
+	font-size: 20px;	
+}
+
+.title-five span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 100px;
+	margin: 10px auto;
+	
+}
+
+
+.title-five{
+	width: 100%;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+}
+
+.eleven{
+	width: 100%;
+	text-align: center;
+	float: left;
+	margin: 30px auto;
+}
+
+.twelve{
+	width: 50%;
+	margin: 30px auto;
+	float: left;
+}
+
+.thirteen{
+	width: 50%;
+	margin: 30px auto;
+	float: left;
+}
+
+.fourteen{
+	width: 100%;
+	text-align: center;
+	float: left;
+	margin: 30px auto;
+}
+
+.fifteen{
+	width: 50%;
+	margin: 30px auto;
+	float: left;
+}
+
+.sixteen{
+	width: 50%;
+	margin: 30px auto;
+	float: left;
+}
+
+.seventeen{
+	width: 100%;
+	margin: 0 auto;
+	background-color: skyblue;
+}
+
+.form h2{
+	text-align: center;
+	font-size: 30px;
+	margin: 60px;
+}
+
+.form p{
+	text-align: center;
+	font-size: 30px;
+	margin: 50px;
+}
+
+.contact-form{
+	width: 500px;
+	margin: 0 auto;
+	margin-top:100px; 
+	text-align: center;
+}
+
+.form-control{
+	width: 49%;
+	float: left;
+	height: 35px;
+	background-color: black;
+	color: #fff;
+}
+
+.text-area{
+	width: 99%;
+	height: 115px;
+	background-color: black;
+	color: #fff;
+}
+
+.last{
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+	float: left;
+	text-align: center;
+	background-color: cyan;
+	font-size: 40px;
+}
+
+.eighteen{
+	float: left;
+	width: 100%;
+}
+
+.nineteen{
+	float: left;
+	width: 15%;
+	margin: 30px auto;
+}
+.twenty{
+	float: left;
+	width: 15%;
+	margin: 30px auto;
+}
+.twentyone{
+	float: left;
+	width: 15%;
+	margin: 30px auto;
+}
+.twentytwo{
+	float: left;
+	width: 15%;
+	margin: 30px auto;
+}
+.twentythree{
+	float: left;
+	width: 15%;
+	margin: 30px auto;
+}
+.twentyfour{
+	float: left;
+	width: 15%;
+	margin: 30px auto;
+}
